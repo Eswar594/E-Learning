@@ -1,0 +1,209 @@
+.body{
+  font-family:"Roboto";
+}
+.e-learning-logo {
+  width: 75px;
+  height: 75px;
+  border-radius:50%;
+}
+#navItem1 {
+  color: #323f4b;
+}
+#navItem2 {
+  color: #323f4b;
+}
+#navItem3 {
+  color: #323f4b;
+}
+#navItem4 {
+  color: #323f4b;
+}
+.Home-section{
+  background-image:linear-gradient(rgb(0, 191, 255),white,rgb(255, 2, 95));
+}
+.About-section{
+  background-image:linear-gradient(rgb(87, 205, 245),white,rgb(2, 65, 255));
+}
+.course-section{
+  background-image:linear-gradient(rgb(209, 141, 222),white,rgb(183, 2, 255));
+}
+.project-section{
+  background-image:linear-gradient(rgb(3, 191, 254),white,rgb(2, 255, 217));
+}
+.navs{
+  font-size:24px;
+  padding-left:100px !important;
+}
+.header-section-bg-container {
+  height:120vh;
+  margin-top:10vh;
+}
+.header-heading {
+  font-size: 48px;
+  font-weight: bold;
+}
+.header-caption {
+  font-size: 32px;
+  font-weight:800;
+}
+.button-view-courses {
+  color: white;
+  width: 120px;
+  height: 40px;
+  font-weight:bold;
+  background-color:#f90150;
+  border:3px solid #f90150;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.button-outline{
+  color: #f90150;
+  width: 120px;
+  height: 40px;
+  font-weight:bold;
+  border:3px solid #f90150;
+  border-radius: 8px;
+}
+.course-img{
+width:25%;
+border-radius:50%;
+}
+.Aboutsection {
+background-color: #f9fbfe;
+}
+.About-section-heading {
+  font-size: 32px;
+  font-weight:bold;
+}
+.About-section-description {
+  color: #1c2227;
+  font-size: 20px;
+}
+.About-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.About-card-image {
+  width: 150px;
+  height: 120px;
+  border-radius:25%;
+}
+.About-card-title {
+  color: #9e06da;
+  font-size: 22px;
+  font-weight:bold;
+}
+.About-card-description {
+  color: #6c736c;
+  font-size: 16px;
+}
+.course-menu-section {
+  background-color: white;
+}
+.course-section-heading {
+  font-size: 28px;
+  font-weight: 700;
+}
+.course-item-image {
+  border-radius: 10px;
+  height:150px;
+  width:150px;
+}
+.course-card-title {
+  color: #086ecd;
+  font-size: 22px;
+  font-weight:bold;
+  margin-top: 24px;
+}
+.course-item-link {
+  color: #f90150;
+  font-size: 18px;
+  font-weight:bold;
+}
+.course-item-link:hover {
+  color: #f90150;
+  text-decoration:none;
+  font-size: 20px;
+  font-weight:bold;
+}
+.course-item-card {
+  border-radius: 16px;
+  background-color:#f9fbf9;
+}
+.project-section {
+  background-color: #f9fbfe;
+}
+.project-img {
+  width: 270px;
+  border-radius:50%;
+}
+.project-section-mainheading {
+  font-size: 36px;
+  font-weight:bold;
+  font-style:italic;
+}
+.project-section-heading {
+  font-size: 32px;
+  font-weight:bold;
+  font-style:italic;
+}
+.project-section-description {
+  color: #1e2124;
+  font-size: 20px;
+  font-style:italic;
+  font-weight:bold;
+}
+.github-link:hover{
+  text-decoration:none;
+  font-size:20px;
+}
+.watch-button{
+  font-size:24px;
+  border: 3px solid white;
+  border-radius:10px;
+}
+.follow-section {
+  background-color: white;
+}
+.follow-section-heading {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
+.follow-section-icon-container {
+  background-color: #faf7e8;
+  width: 100px;
+  height: 100px;
+  border-radius:50%;
+  margin: 15px;
+  padding:25px;
+}
+.icon {
+  color: #f90151;
+  font-size: 50px;
+}
+.icon:hover{
+  color:rgb(0, 0, 0)
+}
+.footer-section {
+  background-color: #060c59;
+}
+.footer-mailid {
+  color: #c1c9d8;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 20px;
+}
+.footer-address {
+  color: #dfcbdf;
+  font-size: 16px;
+}
+.e-learning-logo-end{
+  width:200px;
+  height:200px;
+  border-radius:50%;
+}
